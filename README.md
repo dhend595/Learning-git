@@ -1,2 +1,2 @@
 # Learning-git
-This is for the Git tutorial
+This is for the Git tutorial.
